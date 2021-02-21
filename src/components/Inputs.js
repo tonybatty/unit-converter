@@ -67,21 +67,13 @@ const styles = StyleSheet.create({
     display: "flex",
     justifyContent: "center",
     alignItems: "center",
-    // padding: 8
 
   },
   button: {
-    // aspectRatio: 1,
     width: "100%",
     height: "100%",
     justifyContent: "center",
-    // borderWidth: 0.5,
-    // borderColor: "#DCE0E2",
-    // backgroundColor: "#DCE0E2",
     borderRadius: 8,
-    // backgroundColor: "white",
-    // borderWidth: 1,
-    // borderColor: "red"
   },
   buttonText: {
     textAlign: "center",

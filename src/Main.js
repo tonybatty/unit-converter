@@ -222,9 +222,6 @@ export default class App extends Component {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    // borderWidth: 1,
-    // borderColor: 'red'
-    // backgroundColor: "#DCE0E2",
   },
   linearGradient: {
     flex: 1

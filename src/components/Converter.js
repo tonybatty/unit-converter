@@ -71,7 +71,6 @@ const styles = StyleSheet.create({
     height: 50,
     display: "flex",
     justifyContent: "center",
-
   },
   inputGroup: {
     flexDirection: "column",
@@ -80,7 +79,6 @@ const styles = StyleSheet.create({
     marginBottom: 16,
     marginLeft: 16,
     marginRight: 16,
-
   },
   inputFromWrapper: {
     flex: 1,
