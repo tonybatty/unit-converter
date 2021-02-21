@@ -34,7 +34,7 @@ class InnerModal extends Component {
     const containerStyle = {
       // copied from RNW View/StyleSheet/constants
       alignItems: 'stretch',
-      // border: '0 solid black',
+      border: '0 solid black',
       boxSizing: 'border-box',
       display: 'flex',
       flexBasis: 'auto',
