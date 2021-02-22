@@ -2,8 +2,9 @@
   "expo": {
     "name": "Unit Converter",
     "slug": "unit-converter",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "orientation": "portrait",
+    "primaryColor": "#003F88",
     "icon": "./assets/icon.png",
     "splash": {
       "image": "./assets/splash.png",
@@ -15,13 +16,16 @@
     },
     "assetBundlePatterns": ["**/*"],
     "ios": {
+      "bundleIdentifier": "com.doubletheory.unitconverterapp",
+      "buildNumber": "1.0.1",
       "supportsTablet": true
     },
     "android": {
+      "package": "com.doubletheory.unitconverterapp",
+      "versionCode": 1,
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#003F88",
-        "androidStatusBar": "light"
+        "backgroundColor": "#003F88"
       },
       "icon": "./assets/androidIcon.png"
     },
